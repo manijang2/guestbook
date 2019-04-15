@@ -149,8 +149,8 @@
 				<configuration>
 					<url>http://localhost:8080/manager/text</url>
 					<path>/guestbook</path>
-					<username>jerry</username>
-					<password>jerry</password>
+					<username>admin</username>
+					<password>tomcat</password>
 				</configuration>
 			</plugin>
 		</plugins>
