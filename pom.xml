@@ -9,10 +9,11 @@
 	<!-- 변수 -->
 	<properties>
 		<org.springframework-version> 4.2.1.RELEASE </org.springframework-version>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 	</properties>
 	
-	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+	
 
 	<!-- 라이브러리를 추가 -->
 	<dependencies>
