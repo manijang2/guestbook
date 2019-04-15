@@ -149,8 +149,8 @@
 				<configuration>
 					<url>http://localhost:8080/manager/html</url>
 					<path>/guestbook</path>
-					<username>admin</username>
-					<password>tomcat</password>
+					<username>tomcat</username>
+					<password>s3cret</password>
 				</configuration>
 			</plugin>
 		</plugins>
